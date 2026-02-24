@@ -27,7 +27,6 @@ A simple Windows application that converts Half-Life: Alyx / Source 2 ORM mask t
    - Output new PNG files in the same folder, named based on the original file (e.g., `cardboard_box_1_metallic.png`).  
 
 ## Notes
-- Only the compiled `.exe` is provided; source code is available in this repository.  
 - The program does **not** modify the original files.  
 - Dragging multiple files is not supported; process one at a time.  
 - The tool is designed specifically for Source 2 / HLA ORM textures; other PNGs may not produce meaningful results.
